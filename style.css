@@ -1,5 +1,11 @@
+body{
+ background: url("https://i.ytimg.com/vi/kxfeTcty3Do/maxresdefault.jpg") no-repeat center;
+}
+
+
+
 table,header,footer{
-  width:80%;
+  width:50%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -7,12 +13,12 @@ table {
   border-collapse: separate;
   margin: auto;
   width: 80%;
-  padding: 10px;
+  padding: 40px;
 }
 table td, th {
   font-family: 'Raleway', sans-serif;
   background-color: #ffffff; opacity: 0.9; 
-  border: 2px solid #f7ef62;
+  border: 3px solid #29237a;
   border-radius: 5px;
   text-align: left;
   color: #ea3a3a; 
@@ -21,5 +27,5 @@ table td, th {
 th {
   height: 50px;
   text-align: center;
-  color: blue;
+  color: purple;
 }
