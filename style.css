@@ -3,3 +3,23 @@ table,header,footer{
   margin-left: auto;
   margin-right: auto;
 }
+table {
+  border-collapse: separate;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+table td, th {
+  font-family: Architects Daughter;
+  background-color: #ffffff; opacity: 0.9; 
+  border: 2px solid #f7ef62;
+  border-radius: 5px;
+  text-align: left;
+  color: #ea3a3a; 
+  font-size: 22px;
+}
+th {
+  height: 50px;
+  text-align: center;
+  color: blue;
+}
